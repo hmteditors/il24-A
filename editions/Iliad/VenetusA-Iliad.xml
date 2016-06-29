@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -11,8 +11,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-
+        <editor>Gunner Hedden</editor>
+        <editor>Marloes Velthuisen</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
@@ -25,7 +25,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+        <l n="1">λῦτο δ᾽ ἀγὼν· λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+        <l n="2">ἐσκίδναντ' ϊέναι· τοὶ μὲν δόρποιο μέδοντο</l>
+        <l n="3">ὕπνου τε γλυκεροῦ ταρπήμεναι· αὐτὰρ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName></l>
+        <l n="4">κλαῖε. φίλου ἑτάρου μεμνημένος· οὐδέ μιν ὕπνος</l>
       </div>
     </body>
   </text>
