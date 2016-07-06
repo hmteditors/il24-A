@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             ὥσπερ επι τοῦ <rs type="waw">ἰχθύες</rs> <rs type="waw">ἰχθῦς</rs> <rs type="waw">μῦες</rs> <rs type="waw">μῦς</rs> <rs type="waw">ῥύεσθαι</rs> <rs type="waw">ῥύσθαι</rs> 
                             <cit><ref type="urn">urn:cts:greekLit:tlg0012:tlg001:15.141</ref><q>πάντῶν 
                             <choice><abbr>ανων</abbr><expan>ἀθρώπων</expan></choice>ῥῦσθαι γενεήν τε τόκον τε· </q></cit>
-                            ἠ ἀπο τοῦ <rs type="waw">λέλυτο</rs> <rs type="waw">λῦτο</rs> ὡς <rs type="waw">βέβλητο</rs> <rs type="waw">βλῆτο</rs> :-
+                            ἠ ἀπο τοῦ <rs type="waw">λέλυτο</rs> <rs type="waw">λῦτο</rs> ὡς <rs type="waw">βέβλητο</rs> <rs type="waw">βλῆτο</rs> ⁑
                             </p>
             </div>
           </div>
@@ -59,12 +59,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <div type="comment">
               <p>ἕως τῶν μιμνησκόμενος άθετοῦνται <choice><abbr>στιχ</abbr><expan>στίχοι</expan></choice> 
                             
-                            <num value="4">δ</num>ὅτι ἑθτελής ἔισι ἀρθεντων δὲ ἀθτων καὶ
-                             ἐμθαντικωτερον 
-                             <choice><abbr>δηλουτ</abbr><expan>δηλουται</expan></choice> ἡ τοῦ 
+                            <num value="4">δ</num>ὅτι εὐτελής ἔισι ἀρθεντων δὲ αὐτων καὶ
+                             ἐμφαντικώτερον 
+                             <choice><abbr>δηλουτ</abbr><expan>δηλοῦται</expan></choice> ἡ τοῦ 
                              <persName n="urn:cite:htm:pers.pers1"><choice><abbr>ἀχι</abbr><expan>ἀχιλέως</expan></choice></persName> λύπη.
-                             <q><l>ἀλλ εστρέφετ' ἔνθα καὶ ἔνθα</l><l>ἄλλοτ' ἐπι πλευράς</l></q> καὶ τοῖς ἀυτοῖς καταγίνεται 
-                             <rs type="waw">ἀνδροτ</rs></p>
+                             <q><l><choice><abbr>ἀλλ</abbr><expan>ἀλλ'</expan></choice> εστρέφετ' ἔνθα καὶ ἔνθα</l><l>ἄλλοτ' ἐπι πλευράς</l></q> καὶ τοῖς αὐτοῖς καταγίνεται 
+                             <rs type="waw"><choice><abbr>ἀνδροτητ</abbr><expan>ἀνδροτῆτα</expan></choice></rs>καὶ <rs type="waw">μενος</rs> οὐδὲν γὰρ 
+                             <choice><abbr>διαφε</abbr><expan>διαφερει</expan></choice>καὶ <choice><abbr>οὐδεποτ</abbr><expan>οὐδεποτ'</expan></choice> 
+                             <rs type="waw"><choice><abbr>ἀνδροτητ</abbr><expan>ἀνδροτητ`</expan></choice></rs> εἴρηκε τήν 
+                             <rs type="waw">ἀνδρείαν</rs> ἀλλ' <rs type="waw">ἡνορέαν</rs>. εἴχε καὶ τὸ δυσεξείληπτον <cit><ref type="urn">urn:cts:greekLit:tlg0012:tlg001:24.9</ref><q>τῶν μιμνησκόμενος</q></cit>
+                             καὶ γὰρ ἄνω εἴρηκεν ἑταίρου μεμνημένος προηθετοῦντο δὲ καὶ παρα <choice><abbr>αριστοφαι</abbr><expan>αριστοφανει</expan></choice>
+                             <choice><abbr>ταυτ</abbr><expan>ταυτα</expan></choice>δὲ ἤτοι συναπτέον τοῖς ἄνω ἵν' ἦι κοινὸν τὸ ποθέων <sic>ἡ</sic>
+                             <choice><abbr>ἀφ</abbr><expan>ἀφ'</expan></choice> ετερας ἀρχῆς ἀναγνωστεον ἵνα ὑποστείζωμεν ἐπι τὸ κύματα πείρων⁑</p>
             </div>
           </div>
         </body>
