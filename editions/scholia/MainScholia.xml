@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -41,11 +41,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <sic>πόρον</sic></q></cit>·
                             
                             καὶ <q>τῆς δ` ἄρα κλαιούσης λῦτο γούνατα</q> ἔκτασις ἐγένετο 
-                            δια τὸ μέτρον· εἰ δέ παρατατικόν τινες ἐκδεχονται δύναται κρᾶσις τοῦ ἐλύετο γεγενῆσθαι 
-                            ὥσπερ επι τοῦ ἰχθύες ἰχθῦς μῦες μῦς ῥύεσθαι ῥύσθαι 
+                            δια τὸ μέτρον· εἰ δέ παρατατικόν τινες ἐκδεχονται δύναται κρᾶσις τοῦ <rs type="waw">ἐλύετο</rs> γεγενῆσθαι 
+                            ὥσπερ επι τοῦ <rs type="waw">ἰχθύες</rs> <rs type="waw">ἰχθῦς</rs> <rs type="waw">μῦες</rs> <rs type="waw">μῦς</rs> <rs type="waw">ῥύεσθαι</rs> <rs type="waw">ῥύσθαι</rs> 
                             <cit><ref type="urn">urn:cts:greekLit:tlg0012:tlg001:15.141</ref><q>πάντῶν 
                             <choice><abbr>ανων</abbr><expan>ἀθρώπων</expan></choice>ῥῦσθαι γενεήν τε τόκον τε· </q></cit>
-                            ἠ ἀπο τοῦ λέλυτο λῦτο ὡς βέβλητο βλῆτο :-
+                            ἠ ἀπο τοῦ <rs type="waw">λέλυτο</rs> <rs type="waw">λῦτο</rs> ὡς <rs type="waw">βέβλητο</rs> <rs type="waw">βλῆτο</rs> :-
                             </p>
             </div>
           </div>
